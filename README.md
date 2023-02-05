@@ -8,6 +8,11 @@ use evtx_dump.py or something to convert the file to a txt
 
 ![image](https://user-images.githubusercontent.com/50979196/216720571-03881958-f5cd-4765-b95a-4f7689a5444b.png)
 
+![image](https://user-images.githubusercontent.com/50979196/216796190-8062ec8f-5625-4e34-a552-59ca0e7f84b3.png)
+
+![image](https://user-images.githubusercontent.com/50979196/216796201-00ff805d-bb19-4a51-b2a3-bd602dc56503.png)
+
+
 # EVTX_query
 The analysis might find some events you want to inspect further
 
